@@ -1,48 +1,60 @@
 # Task 8 ElavateLab - Rutikesh Pawar
 
-This repository contains my Tableau assignments and related resources completed as part of my Data Analytics learning journey.
+# 📊 Superstore Sales Analysis - Tableau Dashboard
+
+This repository contains my Tableau dashboard and related resources for **Superstore Sales Analysis**.  
+The project visualizes and analyzes sales, profit margins, return rates, and order trends across categories, states, and segments.
 
 ---
 
-## 📷 Project Screenshot
-Here’s a preview of my Tableau work:
+## 📷 Dashboard Preview
+Here’s a preview of the Tableau dashboard:
 
-![Tableau Screenshot](Sss.png)
+![Superstore Sales Dashboard](Task_8.png)
+
+---
+
+## 📝 Project Description
+
+The **Superstore Sales Analysis** project is designed to provide key insights into store performance.  
+The dashboard includes:
+- **Sales by Category & Sub-Category** – Breakdown of sales distribution across product categories.
+- **KPIs** – Sales (₹), Profit Margin (%), and Return Rate (%).
+- **Orders by State** – Geographic view of order distribution.
+- **Orders by Segment** – Share of orders from Consumer, Corporate, and Home Office segments.
+- **Top 5 Products by Orders** – Products with the highest demand.
+- **Orders Trend Over Time** – Monthly/Yearly trend analysis.
+
+The dashboard allows **interactive filtering** by:
+- Metric type (Sales, Profit, Orders)
+- Region
+- Year of Order Date
 
 ---
 
 ## 📂 Files in this Repository
 
 - **README.md** → Overview and description of the repository.
-- **Sss.png** → Screenshot/image of my Tableau dashboard.
-- **TASK 8 DA.pdf** → PDF document containing Task 8 for Data Analytics.
-- **Tableau Assignments Rutikesh.twbx** → Tableau packaged workbook containing my completed Tableau visualizations and dashboards.
-
----
-
-## 📊 Project Overview
-
-The Tableau workbook includes:
-- Data visualization dashboards
-- Interactive charts and graphs
-- Assignment tasks demonstrating various Tableau features
+- **Sss.png** → Screenshot of the Tableau Superstore Sales Dashboard.
+- **TASK 8 DA.pdf** → PDF document for Data Analytics Task 8.
+- **Tableau Assignments Rutikesh.twbx** → Tableau packaged workbook containing the complete dashboard.
 
 ---
 
 ## 🛠 Tools & Technologies Used
-- Tableau
-- Microsoft Excel (data source)
-- PDF for task documentation
-- PNG images for visualization snapshots
+- **Tableau** – Data visualization and dashboard creation.
+- **Microsoft Excel** – Data source for analysis.
+- **PNG** – Snapshot of the final dashboard.
+- **PDF** – Task documentation.
 
 ---
 
 ## 📥 How to Use
 1. Download the `.twbx` file from the repository.
 2. Open it in **Tableau Desktop** or **Tableau Public**.
-3. Explore the dashboards and worksheets.
+3. Interact with filters to explore insights.
 
 ---
 
 📌 **Author**: Rutikesh Pawar  
-📅 **Created**: 2025  
+📅 **Created**: 2025
